@@ -3,4 +3,4 @@
 ## 食用方法
 1.先确认您已安装过[MT管理器](https://d.mt2.cn)或[Termux](https://github.com/termux/termux-app/releases/)。<br>
 2.安装这个Magisk模块并重启您的设备。<br>
-3.在MT管理器的终端模拟器或Termux上执行命令：
+3.在MT管理器的终端模拟器或Termux上执行您需要执行的ADB命令。<br>
